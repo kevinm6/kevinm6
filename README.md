@@ -8,9 +8,6 @@
 <img src="https://avatars.githubusercontent.com/u/72861758?v=4"/>
 </P>
 
-![](https://avatars.githubusercontent.com/u/72861758?v=4)
-
-
 + 🔭 I’m currently working on `Studies`
 + 🌱 I’m currently learning `Computer Science` @ *Unimi*
 
