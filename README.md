@@ -4,10 +4,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=72861758)
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/72861758?v=4"/>
-</P>
-
 + 🔭 I’m currently working on `Studies`
 + 🌱 I’m currently learning `Computer Science` @ *Unimi*
 
