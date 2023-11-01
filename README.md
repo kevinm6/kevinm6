@@ -9,7 +9,7 @@
 
 + **Partner**  
 + **** enthusiast  
-+ <a href="https://neovim.io">Neovim</a> enthusiast  
++ <a href="https://neovim.io">Neovim</a> enthusiast  ([My config](https://github.com/kevinm6/nvim))
 
 ---
 
